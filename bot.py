@@ -20,4 +20,4 @@ class MyClient(discord.Client):
 intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
-client.run('MTMzMjM4NDIzMjM5NTM3ODg0MQ.Gla1Ht.VjhApFutE2T_h6Aut8-feGgOSbitBrgtEZyYqY')
+client.run('x')
